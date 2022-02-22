@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivanisinghhh
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning computer science engineering
+- 🌱 I’m currently learning java
 
 
 <!---
